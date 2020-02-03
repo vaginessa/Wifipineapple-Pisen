@@ -134,7 +134,7 @@ http://downloads.openwrt.org/chaos_calmer/15.05/ar71xx/generic/openwrt-15.05-ar7
 
 In the console firmware update , check the firmware , select the downloaded firmware, and then upload and update. It is recommended to use Chrome or FireFox browser.
 
-## To sum up
+## The end
 
 These two routes from PISEN have MicroUSB interfaces, which can be powered by a universal mobile charger or mobile power supply. 
 When the school is powered off at night, using the WPR001N with a mobile power supply can continue to use wireless after the dormitory is powered off at night!
