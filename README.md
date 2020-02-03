@@ -1,5 +1,5 @@
 ## Wifipineaple-Pisen-WPR001N
-## Foreword
+## Intro
 
 Usually, in order to make the router more abundant, we will choose to flash the third-party custom firmware to the router. 
 My goal is to let the router automatically log in to authenticate the campus network. Flashing third-party firmware here is only the first step. 
