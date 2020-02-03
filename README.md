@@ -36,7 +36,13 @@ connection command:
 $ telnet 192.168.222.254
 ```
 
-Default location after loginroot@PISENWIFI:~#
+Default location after
+
+```
+
+loginroot@PISENWIFI:~#
+
+```
 
 Backup the original partition file
 
@@ -53,6 +59,9 @@ Back up the original u-boot and art to the / tmp directory:
 
 $ dd if=/dev/mtd0 of=/tmp/uboot.bin
 $ dd if=/dev/mtd4 of=/tmp/art.bin
+
+```
+
 Check the disk space occupation of the file system before inserting the USB flash drive
 
 ```
