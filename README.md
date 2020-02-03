@@ -74,10 +74,12 @@ $ df
 Insert U disk and then execute df
 can find more of a 
 
-```/dev/sda4
+```
+/dev/sda4
 ```
 is U disk,
-```mount/tmp/mnt/disk-a4
+```
+mount/tmp/mnt/disk-a4
 ```
 
 Move the backup uboot.bin and art.bin to a USB stick
