@@ -53,15 +53,16 @@ View system disk partition information, you can see u-bootand artpartition
 ```
 
 $ cat /proc/mtd
-Back up the original u-boot and art to the / tmp directory:
 
 ```
 
+Back up the original u-boot and art to the / tmp directory:
+
+```
 $ dd if=/dev/mtd0 of=/tmp/uboot.bin
 $ dd if=/dev/mtd4 of=/tmp/art.bin
 
 ```
-
 Check the disk space occupation of the file system before inserting the USB flash drive
 
 ```
