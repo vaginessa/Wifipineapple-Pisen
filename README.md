@@ -112,7 +112,7 @@ can enter control Breed Stage.
 Note in the console settings to see if the MAC address is still the router's MAC. If not, please change it back. (The router MAC is in the fuselage description section)
 
 Download the latest Chaos_Calmer OpenWrt firmware (2015.9) on the OpenWrt official website, and download the TL-WR 703N firmware. The link is as follows: 
-http://downloads.openwrt.org/chaos_calmer/15.05/ar71xx/generic/openwrt-15.05-ar71xx-generic- tl-wr703n-v1-squashfs-factory.bin
+http://downloads.openwrt.org/chaos_calmer/15.05/ar71xx/generic/openwrt-15.05-ar71xx-generic-tl-wr703n-v1-squashfs-factory.bin
 
 In the console firmware update , check the firmware , select the downloaded firmware, and then upload and update. It is recommended to use Chrome or FireFox browser.
 
