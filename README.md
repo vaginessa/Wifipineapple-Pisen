@@ -1,4 +1,4 @@
-## Wifipineaple-Pisen Part 1
+## Part 1
 ## Intro
 
 Usually, in order to make the router more abundant, we will choose to flash the third-party custom firmware to the router. 
